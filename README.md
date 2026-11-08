@@ -139,3 +139,15 @@ To keep the repository minimal, the raw generation logs (token-ID streams and ma
 ## License
 
 Released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) — see [`LICENSE`](LICENSE) for the full text. You may share and adapt the write-up, case logs, fixtures, and labels with attribution. Model responses are quoted verbatim from Qwen3-0.6B (Apache-2.0); use of the model and its outputs is additionally governed by that model license. If pipeline code is added to this repository later, it should carry its own software license.
+
+### How to Cite
+```bibtex
+@misc{li2026fixedbutflagged,
+  author       = {Xuao Li},
+  title        = {{Fixed but Flagged, Wrong but Approved}: Testing {Qwen3-0.6B}'s
+                  Feedback on Chinese Short Answers},
+  year         = {2026},
+  month        = nov,
+  url          = {https://github.com/StP00h/fixed-but-flagged}
+}
+```
